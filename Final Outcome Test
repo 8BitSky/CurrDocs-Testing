@@ -1,0 +1,108 @@
+Unit: Core Principles and Techniques
+CS30-CP1 - Implement effective coding practices throughout Computer Science 30.
+Indicators for this outcome:
+Discuss the rationale for learning and using different programming languages.
+
+Contrast the syntax of the language used in Computer Science 20 with the language used in Computer Science 30, as needed.
+
+Compare the coding conventions of the language used in Computer Science 20 with the language used in Computer Science 30, as needed.
+
+Refactor existing code to increase elegance.
+
+Critique third-party code (e.g., student, teacher or textbook programs) and make suggestions for improvement.
+
+Use interactive debugging techniques involving breakpoints and watch windows.
+
+Access search engines, forums and question and answer sites independently to find solutions to coding problems.
+
+CS30-CP2- Engage in collaborative programming practices.
+Indicators for this outcome:
+Explore collaborative programming practices and models.
+
+Collaborative programming practices and models.
+
+Collaborate with others to plan a solution to a problem.
+
+Develop procedural or object-oriented programs collaboratively.
+
+Explore version control using shared folders or versioning software.
+
+Develop and follow a common standard of programming style to integrate code from multiple programmers.
+
+Reflect on the advantages and challenges encountered when working collaborative contexts to solve programming problems.
+
+Interact with experts who work collaborative programming environments.
+
+
+
+
+Unit: Fundamentals of Programming
+CS30-FP1- Investigate types of data structures and the advantages of organizing data in different ways.
+Indicators for this outcome
+Provide examples of the types of problems that can be solved using two-dimensional arrays, mutable (dynamic) arrays and associative arrays (e.g., hash tables or dictionaries).
+Develop a program that utilizes a two-dimensional array.
+Solve a problem utilizing a mutable array (e.g., list or ArrayList).
+Explore the use of associative arrays (e.g., hash tables or dictionaries) to store a dataset.
+Discuss the advantages of using different data structures to solve problems.
+
+CS30-FP2- Create programs that utilize external files.
+Indicators for this outcome
+Identify the types of problems (e.g., high score list, cookie, preferences or output file) that can be solved by utilizing external data.
+Load content from a local or remote file into a program.
+Parse the data from an external file to remove extraneous information, if necessary.
+Save the state of a program by creating or modifying a file.
+Discuss the importance of saving data into and external file.
+CS30-FP3 - Use libraries to simplify solutions to programming problems.
+Indicators for this outcome
+Explain the advantages of using libraries (packages) in programs.
+Create a program that imports a package or classes wthin a package.
+Identify the functionality of a library from the documentation or application programming interface (API)
+Write a program that utilizes an application programming interface (API)(e.g., social networking, weather data, user authentication, photo sharing and geolocation data)
+
+CS30-FP4 -Explore the concepts and principles of object-oriented programming.
+Indicators for this outcome
+Investigate object-oriented programing concepts including classes, objects, attributes and methods.
+Discuss how a class can be understood as a programmer-defined data type.
+Design and implement a class, and create a program that utilizes instances of this class.
+Apply the principle of encapsulation through the creation and use of user-defined objects.
+Create a constructor and use it to instantiate an object.
+Compare object-oriented and procedural programming paradigms.
+
+
+
+
+
+Unit: Core Concepts
+CS30-CC1 - Explore recursion and investigate sorting algorithms.
+Indicators for this outcome
+Distinguish between iterative and recursive problem-solving techniques and demonstrate how to accomplish a specific task using both approaches.
+
+Create recursive functions and use them in programs to solve problems such as calculating factorials, evaluating exponents, designing fractal images or calculating the Fibonacci sequence.
+
+Discuss the processes (e.g., the stack, stack frames and maximum recursion depth) involved in evaluating recursive functions.
+
+Identity the advantages and disadvantages of using recursive problems.
+
+Provide examples of situations where sorting is used to solve problems.
+
+Discuss the importance of efficiency in sorting algorithms.
+
+Analyze the execution of insertion, selection and quicksort algorithms using visualizations.
+
+Illustrate the implementation of a sorting algorithm (e.g., selection, insertion, and quicksort) using pseudocode.
+
+Create a program to sort data in an array using one or more sorting algorithms (e.g., selection, insertion, quicksort).
+
+CS30-CC2 - Explore number systems and character encoding used in computing.
+Indicators for this outcome
+Discuss how all digital data is stored numerically and how the data type dictates the interpretation of the number.
+
+Discuss the rationale for using various number systems.
+
+Convert between binary (base 2), decimal (base 10) and hexadecimal (base 16) number systems.
+
+Analyze the implications (e.g., rounding error) for precision when storing a floating point value as a binary number.
+
+Discuss how colour values are represented digitally, including RGB and hexadecimal.
+
+Discuss how character encoding systems such as ASCII and Unicode represent text.
